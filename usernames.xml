@@ -1,0 +1,18 @@
+<Users>
+    <User>
+        <Login>standard_user</Login>
+        <Senha>secret_sauce</Senha>
+    </User>
+    <User>
+        <Login>locked_out_user</Login>
+        <Senha>secret_sauce</Senha>
+    </User>
+    <User>
+        <Login>problem_user</Login>
+        <Senha>secret_sauce</Senha>
+    </User>
+    <User>
+        <Login>performance_glitch_user</Login>
+        <Senha>secret_sauce</Senha>
+    </User>
+</Users>
